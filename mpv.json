@@ -1,0 +1,9 @@
+{
+  "name": "mpv",
+  "description": "My Application",
+  "path": "/System/Volumes/Data/Users/dominic/Desktop/chrome-native-messaging-master/host/main.js",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://hapfgbfggbcfljmlniifflbeicfjikkc/"
+  ]
+}
